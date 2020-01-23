@@ -29,6 +29,14 @@
 	"dependencies": {
 		"any-observable": "^0.3.0"
 	},
+	"peerDependenciesMeta": {
+		"rxjs": {
+			optional: true
+		},
+		"zen-observable": {
+			optional: true
+		}
+	},
 	"devDependencies": {
 		"array-to-events": "^1.0.0",
 		"ava": "^0.25.0",
