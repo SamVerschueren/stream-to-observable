@@ -31,10 +31,10 @@
 	},
 	"peerDependenciesMeta": {
 		"rxjs": {
-			optional: true
+			"optional": true
 		},
 		"zen-observable": {
-			optional: true
+			"optional": true
 		}
 	},
 	"devDependencies": {
